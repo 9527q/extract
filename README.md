@@ -78,6 +78,12 @@
 
 —— 《霍比特人1》 甘道夫赠予巴金斯剑时的赠言
 
+## 《变形金刚1》
+
+> Fifty years from now, when you're looking back at your life, don't you want to be able to say you had the guts to get in the car? 
+
+—— Sam 和 Mikaela 首次经历变形金刚大战且差点丧命，而后被大黄蜂邀请上车，Sam 对迟疑的 Mikaela 说到
+
 ---
 
 # 电视剧
