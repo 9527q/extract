@@ -40,6 +40,15 @@
 
 —— 《霍比特人1》 甘道夫对刚踏上冒险之旅的巴金斯说到
 
+> Baggins: I have never used a sword in my life.
+> Gandalf: And I hope you never have to.
+
+—— 《霍比特人1》 甘道夫赠予巴金斯一把剑时的对话
+
+> True courage is about knowing not when to take a life, but when to spare one.
+
+—— 《霍比特人1》 甘道夫赠予巴金斯剑时的赠言
+
 # 电视剧
 
 ## 《请回答1988》
