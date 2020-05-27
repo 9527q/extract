@@ -104,7 +104,7 @@
 
 # 概念
 
-[哲学剃刀](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E5%89%83%E5%88%80) --- 剃刀在哲学中的胜利
+[哲学剃刀](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E5%89%83%E5%88%80) —— 剃刀在哲学中的胜利
 
 ---
 
