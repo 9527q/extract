@@ -153,7 +153,7 @@
 
 # 文章
 
-## 高中《物理》（选修3系列）《致同学们》
+## 《致同学们》(高中《物理》（选修3系列）)
 
 欢迎大家进入《物理》(选修3系列)的学习。这个系列将为大家呈现比较完整和综合的物理学内容，展示物理学发展中充满智和灵气的科学思维，弘扬前辈物理学家探寻真理的坚强意志和科学精神。
 
@@ -199,9 +199,21 @@
 
 如果你在读了前面那些文字之后，对于物理学的博大精深及影响之巨仍然将信将疑，那也没有关系，还是先学下去吧，或许有一天你会拍打着教科书说：“编者还欠费功夫。”
 
-[图片链接](https://github.com/9527q/extract/issues/1#issue-625522420)
 
-[《物理》（选修3-1）](https://bp.pep.com.cn/ebook/gzkbwlxx31/mobile/index.html)
+<details>
+  <summary>《致同学们》图片</summary>
+  <img
+    src="https://user-images.githubusercontent.com/37435717/83000344-c9106c00-a03c-11ea-93d2-68121f326bcf.png"
+    alt="致同学们1">
+  <img
+    src="https://user-images.githubusercontent.com/37435717/83000375-d7f71e80-a03c-11ea-95f6-805dc9ee1226.png"
+    alt="致同学们2">
+  <img
+    src="https://user-images.githubusercontent.com/37435717/83000406-e3e2e080-a03c-11ea-80f5-42d46584343b.png"
+    alt="致同学们3">
+</details>
+
+[《物理》（选修3-1）在线电子书](https://bp.pep.com.cn/ebook/gzkbwlxx31/mobile/index.html)
 
 ## 《我害怕阅读的人》——台湾奥美替天下文化做的长文案
 
