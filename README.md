@@ -201,15 +201,9 @@
 
 <details>
   <summary>《致同学们》图片</summary>
-  <img
-    src="https://user-images.githubusercontent.com/37435717/83000344-c9106c00-a03c-11ea-93d2-68121f326bcf.png"
-    alt="致同学们1">
-  <img
-    src="https://user-images.githubusercontent.com/37435717/83000375-d7f71e80-a03c-11ea-95f6-805dc9ee1226.png"
-    alt="致同学们2">
-  <img
-    src="https://user-images.githubusercontent.com/37435717/83000406-e3e2e080-a03c-11ea-80f5-42d46584343b.png"
-    alt="致同学们3">
+  <img src="https://user-images.githubusercontent.com/37435717/83000344-c9106c00-a03c-11ea-93d2-68121f326bcf.png" alt="致同学们图片1">
+  <img src="https://user-images.githubusercontent.com/37435717/83000375-d7f71e80-a03c-11ea-95f6-805dc9ee1226.png" alt="致同学们图片2">
+  <img src="https://user-images.githubusercontent.com/37435717/83000406-e3e2e080-a03c-11ea-80f5-42d46584343b.png" alt="致同学们图片3">
 </details>
 
 [《物理》（选修3-1）在线电子书](https://bp.pep.com.cn/ebook/gzkbwlxx31/mobile/index.html)
