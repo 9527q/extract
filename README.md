@@ -98,3 +98,37 @@
 > 双八年，我们双门洞的故事就此结束。怀念那个时期，怀念那个胡同，并不只是因为怀念年轻时候的自己，而是因为那里有爸爸的青春，妈妈的青春，朋友们的青春，和我所有爱着的青春。也因为没能对那些再也无法聚到一起的年轻的风景最后问候一声，而感到惋惜。如今对已经逝去的东西，对再也无法回去的时间，说一句迟到的问候，再见，我的青春，再见，双门洞。
 
 —— 德善回忆双门洞
+
+--- 
+
+# 概念
+
+[哲学剃刀](https://zh.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E5%89%83%E5%88%80) --- 剃刀在哲学中的胜利
+
+---
+
+# 言论
+
+> 形势好时赶路，形势差时学习
+
+—— wait 于20年新型肺炎远程工作日报中写道
+
+> 除非你做点什么，否则任何事情都不会改变。
+
+—— [麦克·罗宾斯](https://mike-robbins.com/book/)
+
+> 如果有人在电话里说有害的言论，你不会让电话公司负责。我们也应该这样对待网站。
+
+—— [扎克伯格](https://www.reuters.com/article/us-germany-security-facebook-idUSKBN2090MA)，谈人们应该怎么看待 Facebook
+
+> 一个新观念取得胜利，并不是因为说服了它的反对者，而是因为反对者最终都死了，并且熟悉这种观念的新一代人成长了。
+
+—— [普朗克](https://en.wikipedia.org/wiki/Planck%27s_principle)，德国物理学家
+
+> 我原想为自己的著作起名为《算法分析》，出版商说："那将永远卖不出去"。
+
+—— [高德纳](https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/)，《计算机编程艺术》的作者
+
+> 我相信，只有六个人读完了我的书《数学原理》，后来其中三人被希特勒杀害。
+
+—— [伯特兰·罗素](https://www.economist.com/books-and-arts/2020/04/18/listen-to-bertrand-russell-the-english-voltaire)，英国哲学家
